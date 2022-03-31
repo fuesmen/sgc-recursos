@@ -52,9 +52,9 @@ _Te pueden pedir:_&#x20;
 
 _Más Información: Unidad Radiofísica Sanitaria. Lic. Roberto J. Calderón Tel. fijo 261 4614060, o celular **261 5957808**_
 
-_****_
 
-_****_
+
+
 
 ## Ubicación de los DEA
 
