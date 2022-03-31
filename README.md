@@ -1,7 +1,3 @@
----
-description: P-R-1
----
-
 # Emergencias Médicas
 
 ## Sede Central (Garibaldi 405, 393)
@@ -54,9 +50,11 @@ _Te pueden pedir:_&#x20;
 * Lugar donde está el paciente.&#x20;
 * Datos del paciente: Apellido y Nombres, Fecha de nacimiento, Obra Social, Teléfono. (Es conveniente conocerlos pero no es obligatorio)
 
-{% hint style="info" %}
-Más Información: Unidad Radiofísica Sanitaria. Lic. Roberto J. Calderón Tel. fijo 261 4614060, o celular **261 5957808**
-{% endhint %}
+_Más Información: Unidad Radiofísica Sanitaria. Lic. Roberto J. Calderón Tel. fijo 261 4614060, o celular **261 5957808**_
+
+_****_
+
+_****_
 
 ## Ubicación de los DEA
 
@@ -71,6 +69,8 @@ Más Información: Unidad Radiofísica Sanitaria. Lic. Roberto J. Calderón Tel.
 &#x20;:red\_circle: Se encuentro en el carro de anestesia
 
 > Recordar que este DEA, podrá ser manipulado por todo el personal
+
+
 
 ## Ubicación de Carros de Paro CON Cardiodesfibrilador
 
@@ -91,6 +91,8 @@ Más Información: Unidad Radiofísica Sanitaria. Lic. Roberto J. Calderón Tel.
 ### Sede Maipú "Nueva"
 
 &#x20;:red\_circle: Ubicación a confirmar
+
+
 
 
 
