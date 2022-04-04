@@ -68,6 +68,10 @@ Competencia para dirigir, influenciar y comprometer a personas y grupos de perso
 
 Documento que establece requisitos para el sistema de gestión de una organización. No conformidad: no satisfacción de un requisito.
 
+#### Mapa de procesos
+
+Diagrama que representa los procesos de una organización en forma interrelacionada.
+
 #### Matriz de riesgos
 
 Es una herramienta de diagnóstico que permite identificar y priorizar los riesgos en un ámbito determinado
