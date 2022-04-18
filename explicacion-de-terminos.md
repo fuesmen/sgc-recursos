@@ -108,6 +108,10 @@ Toda tarea con fuente de radiación que produzca un incremento real o potencial 
 
 Conjunto de actividades, mutuamente relacionadas, que utilizan las entradas para proporcionar un resultado previsto.&#x20;
 
+#### Procedimiento
+
+Secuencia de operaciones y actividades
+
 #### Punto de detención
 
 Etapa, en la secuencia de un proceso, más allá de la cual el elemento no puede ser procesado hasta ser liberado por la persona de la Entidad Responsable que solicita la detención.
