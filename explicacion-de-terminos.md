@@ -6,7 +6,7 @@ description: >-
 
 # Explicación de términos
 
-
+### A
 
 #### Acción correctiva
 
@@ -15,6 +15,10 @@ Acción o actividad necesaria para: a. Eliminar la causa de una no conformidad, 
 #### Auditoría
 
 Proceso sistemático, independiente y documentado para la obtención y la evaluación de evidencias de manera objetiva, con el fin de determinar el grado de cumplimiento de los requisitos.
+
+### B
+
+### C
 
 #### Cadena de suministro
 
@@ -40,6 +44,10 @@ Conjunto de características y actitudes de las organizaciones y las personas qu
 
 Conjunto de normas, tradiciones, valores y actitudes que guían el comportamiento del personal y de las relaciones entre ellos.
 
+### D
+
+### E
+
 #### Eficacia
 
 Grado en el que se realizan las actividades planificadas y se logran los resultados esperados.
@@ -56,13 +64,29 @@ Persona humana o jurídica a la que la Autoridad Regulatoria le ha otorgado una 
 
 Suceso incidental (incluidos sucesos iniciadores, precursores de accidentes y cuasi accidentes), suceso accidental o acto malicioso. Gestión del conocimiento: enfoque integrado y sistemático encaminado a identificar, gestionar y compartir los conocimientos de una organización, y a posibilitar que grupos de personas mantengan y creen colectivamente conocimientos para facilitar la consecución de los objetivos de la organización.
 
+### F
+
+### G
+
+### H
+
+### I
+
 #### Indicador
 
 Dato o conjunto de datos para cuantificar objetivamente la evolución de un proceso o de una actividad. Instalación: instalación nuclear, instalación radiactiva, instalación minero fabril, acelerador de partículas o gestionadora de residuos radiactivos.
 
+### J
+
+### K
+
+### L
+
 #### Liderazgo
 
 Competencia para dirigir, influenciar y comprometer a personas y grupos de personas hacia el logro de objetivos.
+
+### M
 
 #### Manual de gestión
 
@@ -76,6 +100,12 @@ Diagrama que representa los procesos de una organización en forma interrelacion
 
 Es una herramienta de diagnóstico que permite identificar y priorizar los riesgos en un ámbito determinado
 
+### N
+
+### Ñ
+
+### O
+
 #### Objetivo
 
 Resultado a lograr.
@@ -83,6 +113,8 @@ Resultado a lograr.
 #### Organización
 
 Persona o grupo de personas que tienen sus propias funciones con responsabilidades, autoridades y relaciones para lograr sus objetivos.
+
+### P
 
 #### Parte interesada
 
@@ -120,17 +152,29 @@ Etapa, en la secuencia de un proceso, más allá de la cual el elemento no puede
 
 Etapa, en la secuencia de un proceso, que debe ser notificada a la persona que realiza la inspección por parte de la Entidad Responsable, a fin de que pueda presenciar el desarrollo de las actividades involucradas. En el caso que dicha persona no pueda asistir, se puede avanzar hasta la próxima etapa.
 
+### Q
+
+### R
+
 #### Requisito
 
 Característica exigible.
+
+### S
 
 #### Sistema de gestión
 
 Conjunto de elementos interrelacionados o interactuantes (sistema) destinado a establecer políticas y objetivos, y a posibilitar que se logren dichos objetivos de manera eficaz.
 
+### T
+
 #### Trazabilidad
 
 Capacidad para seguir la historia, la aplicación o la localización de un objeto, tal como producto, servicio, proceso, persona, organización, sistema o recurso.
+
+### U
+
+### V
 
 #### Validación
 
@@ -140,7 +184,5 @@ Confirmación, mediante la provisión de evidencia objetiva, de que se han cumpl
 
 Confirmación, mediante la provisión de evidencia objetiva, de que se han cumplido los requisitos especificados.
 
-## Siglas
-
-
+### W, X, Y, Z
 
