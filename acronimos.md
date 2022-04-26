@@ -4,7 +4,41 @@ description: >-
   de la documentación de FUESMEN.
 ---
 
-# Códigos FUESMEN
+# Acrónimos
+
+### Generales
+
+FUESMEN: Fundación Escuela de Medicina Nuclear
+
+CNEA: Comisión Nacional de Energía Atómica
+
+UNCuyo: Universidad Nacional de Cuyo
+
+ARN: Autoridad Regulatoria Nuclear
+
+### Sistema de Gestión
+
+SG: Sistema de Gestión
+
+M: Manual
+
+PE: Procedimiento estratégico
+
+PO: Procedimiento operativo
+
+PS: Procedimiento de soporte
+
+R: Registro
+
+F: Formulario (para ingresar nuevos datos en un registro)
+
+PA: Plan de acción
+
+\--- E: Eventos
+
+\--- NC: No conformidad
+
+\--- OM: Oportunidad de mejora
 
 ### Sedes
 
