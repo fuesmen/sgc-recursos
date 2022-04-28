@@ -122,11 +122,7 @@ Persona humana o jurídica que puede afectar, verse afectada o percibirse como a
 
 #### Política
 
-_Según la RAE:_
-
-Orientaciones o directrices que rigen la actuación de una persona o entidad en un asunto o campo determinado. \[Incluye cómo] se emplean los medios para alcanzar un fin determinado.&#x20;
-
-[https://dle.rae.es/pol%C3%ADtico](https://dle.rae.es/pol%C3%ADtico)
+Orientaciones o directrices que rigen la actuación de una persona o entidad en un asunto o campo determinado.
 
 #### Política de seguridad
 
