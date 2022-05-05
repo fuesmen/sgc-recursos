@@ -32,6 +32,10 @@ Conjunto de operaciones que establecen, en condiciones específicas, la relació
 
 Conjunto de conocimientos, habilidades, aptitudes y actitudes para desempeñarse en una actividad o proceso con el fin de lograr los resultados previstos.&#x20;
 
+#### Conocimiento
+
+Conocimientos técnicos especializados para entender los aspectos técnicos, humanos y organizativos propios de la instalación o la práctica con el fin de garantizar la seguridad
+
 #### Corrección
 
 Acción para eliminar una no conformidad detectada.
@@ -75,6 +79,10 @@ Suceso incidental (incluidos sucesos iniciadores, precursores de accidentes y cu
 #### Indicador
 
 Dato o conjunto de datos para cuantificar objetivamente la evolución de un proceso o de una actividad. Instalación: instalación nuclear, instalación radiactiva, instalación minero fabril, acelerador de partículas o gestionadora de residuos radiactivos.
+
+#### Información
+
+_Información como recurso:_ Está vinculado a la necesidad de ejecución de tareas, actualización de tecnologías, nuevas reglamentaciones, comunicación interna y externa, documentación, registros, informes de eventos, informes, acceso a bibliografía, etc.
 
 ### J
 
