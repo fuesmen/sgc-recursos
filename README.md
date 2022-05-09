@@ -62,13 +62,7 @@ Persona humana o jurídica a la que la Autoridad Regulatoria le ha otorgado una 
 
 Suceso incidental (incluidos sucesos iniciadores, precursores de accidentes y cuasi accidentes), suceso accidental o acto malicioso. Gestión del conocimiento: enfoque integrado y sistemático encaminado a identificar, gestionar y compartir los conocimientos de una organización, y a posibilitar que grupos de personas mantengan y creen colectivamente conocimientos para facilitar la consecución de los objetivos de la organización.
 
-### F
-
-### G
-
-### H
-
-### I
+### G - H - I
 
 #### Indicador
 
@@ -78,17 +72,13 @@ Dato o conjunto de datos para cuantificar objetivamente la evolución de un proc
 
 _Información como recurso:_ Está vinculado a la necesidad de ejecución de tareas, actualización de tecnologías, nuevas reglamentaciones, comunicación interna y externa, documentación, registros, informes de eventos, informes, acceso a bibliografía, etc.
 
-### J
-
-### K
-
-### L
+### J - K - L
 
 #### Liderazgo
 
 Competencia para dirigir, influenciar y comprometer a personas y grupos de personas hacia el logro de objetivos.
 
-### M
+### M - N - Ñ - O
 
 #### Manual de gestión
 
@@ -102,12 +92,6 @@ Diagrama que representa los procesos de una organización en forma interrelacion
 
 Es una herramienta de diagnóstico que permite identificar y priorizar los riesgos en un ámbito determinado
 
-### N
-
-### Ñ
-
-### O
-
 #### Objetivo
 
 Resultado a lograr.
@@ -116,7 +100,7 @@ Resultado a lograr.
 
 Persona o grupo de personas que tienen sus propias funciones con responsabilidades, autoridades y relaciones para lograr sus objetivos.
 
-### P
+### P - Q - R&#x20;
 
 #### Parte interesada
 
@@ -150,29 +134,21 @@ Etapa, en la secuencia de un proceso, más allá de la cual el elemento no puede
 
 Etapa, en la secuencia de un proceso, que debe ser notificada a la persona que realiza la inspección por parte de la Entidad Responsable, a fin de que pueda presenciar el desarrollo de las actividades involucradas. En el caso que dicha persona no pueda asistir, se puede avanzar hasta la próxima etapa.
 
-### Q
-
-### R
-
 #### Requisito
 
 Característica exigible.
 
-### S
+### S - T - U
 
 #### Sistema de gestión
 
 Conjunto de elementos interrelacionados o interactuantes (sistema) destinado a establecer políticas y objetivos, y a posibilitar que se logren dichos objetivos de manera eficaz.
 
-### T
-
 #### Trazabilidad
 
 Capacidad para seguir la historia, la aplicación o la localización de un objeto, tal como producto, servicio, proceso, persona, organización, sistema o recurso.
 
-### U
-
-### V
+### V - W - X - Y - Z
 
 #### Validación
 
@@ -181,6 +157,4 @@ Confirmación, mediante la provisión de evidencia objetiva, de que se han cumpl
 #### Verificación
 
 Confirmación, mediante la provisión de evidencia objetiva, de que se han cumplido los requisitos especificados.
-
-### W, X, Y, Z
 
