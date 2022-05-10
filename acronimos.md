@@ -28,7 +28,7 @@ PO: Procedimiento operativo
 
 PS: Procedimiento de soporte
 
-R: Registro
+R: Reporte
 
 F: Formulario (para ingresar nuevos datos en un registro)
 
