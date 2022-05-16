@@ -47,7 +47,7 @@ OM: Oportunidad de mejora
 | Cod | Sede                                              |
 | --- | ------------------------------------------------- |
 | GEN | General - Elementos que incluye a todas las sedes |
-| CEN | Sede Central                                      |
+| MZA | Sede Mendoza (Central)                            |
 | SR  | Sede San Rafael                                   |
 | MAI | Sede Maipú                                        |
 | UCO | Sede Valle de Uco                                 |
