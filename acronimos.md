@@ -32,13 +32,15 @@ R: Reporte
 
 F: Formulario (para ingresar nuevos datos en un registro)
 
+C: Consideraciones Generales
+
 PA: Plan de acción
 
-\--- E: Eventos
+E: Eventos
 
-\--- NC: No conformidad
+NC: No conformidad
 
-\--- OM: Oportunidad de mejora
+OM: Oportunidad de mejora
 
 ### Sedes
 
