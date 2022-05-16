@@ -70,7 +70,7 @@ Dato o conjunto de datos para cuantificar objetivamente la evolución de un proc
 
 #### Información
 
-_Información como recurso:_ Está vinculado a la necesidad de ejecución de tareas, actualización de tecnologías, nuevas reglamentaciones, comunicación interna y externa, documentación, registros, informes de eventos, informes, acceso a bibliografía, etc.
+_Información como recurso:_ Conocimientos o datos vinculados a la ejecución de tareas, actualización de tecnologías, nuevas reglamentaciones, comunicación interna y externa, documentación, registros, eventos, informes, acceso a bibliografía, entre otros.
 
 ### J - K - L
 
