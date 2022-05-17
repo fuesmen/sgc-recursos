@@ -122,12 +122,16 @@ OM: Oportunidad de mejora
 
 
 
-Prueba de Canva
+Prueba de Figma
 
 
 
-{% embed url="https://www.canva.com/design/DAE5GQ_HzUQ/view" %}
+{% embed url="https://www.figma.com/file/eu4jsPzU2WO6PmsDk8D2kf/FUESMEN---Procesos?node-id=1077:230" %}
 
-{% embed url="https://www.canva.com/design/DAETbvk2co4/view" %}
+{% embed url="https://www.figma.com/file/YYjLemI1JsBOVHO4jwKrDZ/test-link?node-id=0:1" %}
+
+
+
+{% embed url="https://www.figma.com/file/VOcTH7isYvSKB0MgR7o6Pt/Opti-4.0?node-id=102:4158" %}
 
 Vamos con otra
