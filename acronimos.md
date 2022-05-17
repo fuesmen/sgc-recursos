@@ -46,19 +46,19 @@ OM: Oportunidad de mejora
 
 ### Sedes
 
-| Cod | Sede                                              |
-| --- | ------------------------------------------------- |
-| GN  | General - Elementos que incluye a todas las sedes |
-| MZ  | Sede Mendoza (Central)                            |
-| SR  | Sede San Rafael                                   |
-| MA  | Sede Maipú                                        |
-| UC  | Sede Valle de Uco                                 |
-| HI  | Sede Hospital Italiano                            |
-| CO  | COIR                                              |
-| HC  | Hospital Central                                  |
-| HU  | Hospital Universitario                            |
-| CN  | Centro Emilio Coni                                |
-| EC  | Hospital El Carmen                                |
+| Cod | Sede                                                                                                      |
+| --- | --------------------------------------------------------------------------------------------------------- |
+| GN  | General - Elementos que incluye a todas las sedes                                                         |
+| MZ  | Sede Mendoza (Central)                                                                                    |
+| SR  | Sede San Rafael                                                                                           |
+| MA  | Sede Maipú                                                                                                |
+| UC  | Sede Valle de Uco                                                                                         |
+| HI  | Sede Hospital Italiano                                                                                    |
+| CO  | COIR                                                                                                      |
+| HC  | Hospital Central                                                                                          |
+| HU  | Hospital Universitario                                                                                    |
+| CN  | Centro Emilio Coni                                                                                        |
+| EC  | Hospital El Carmen                                                                                        |
 
 ### Servicios Médicos
 
@@ -119,3 +119,11 @@ OM: Oportunidad de mejora
 | SUM | Suministros y Logística                    |
 | HYS | Higiene y Seguridad                        |
 | RFS | Radiofísica Sanitaria                      |
+
+
+
+Prueba de Canva
+
+
+
+{% embed url="https://www.canva.com/design/DAE5GQ_HzUQ/view" %}
