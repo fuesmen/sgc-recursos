@@ -120,3 +120,9 @@ OM: Oportunidad de mejora
 | HYS | Higiene y Seguridad                        |
 | RFS | Radiofísica Sanitaria                      |
 
+
+
+#### FIGMA Integration:
+
+{% embed url="https://www.figma.com/file/eu4jsPzU2WO6PmsDk8D2kf/FUESMEN---Procesos?node-id=1077:230" %}
+
