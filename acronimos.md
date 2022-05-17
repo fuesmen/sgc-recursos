@@ -65,50 +65,49 @@ OM: Oportunidad de mejora
 | Cod | Servicios Médicos              |
 | --- | ------------------------------ |
 | PET | MN - PET                       |
-| CG  | MN - Cámara Gamma              |
-| TIR | MN - Tiroides Centellografía   |
-| RT  | Radioterapia                   |
-| QT  | Quimioterapia                  |
-| RM  | Resonancia Magnética           |
-| TC  | Tomografía                     |
+| GAM | MN - Cámara Gamma              |
+| CEN | MN - Tiroides Centellografía   |
+| RTX | Radioterapia                   |
+| QTX | Quimioterapia                  |
+| RMN | Resonancia Magnética           |
+| TAC | Tomografía                     |
 | ECO | Ecografía - EcoDoppler         |
 | MAM | Mamografía                     |
 | DMO | Densitometría                  |
 | LAB | Laboratorio                    |
-| CRD | CardioFUESMEN                  |
-| NRF | NeuroFUESMEN                   |
+| CAR | CardioFUESMEN                  |
+| NER | NeuroFUESMEN                   |
 | NEU | Neumonología                   |
 | GIN | Ginecología                    |
-| CNS | Consultorios                   |
-| BM  | Biología Molecular             |
-| ANS | Anestesia                      |
+| CON | Consultorios                   |
+| BIM | Biología Molecular             |
+| ANE | Anestesia                      |
 | CIC | MN - Ciclotrón                 |
 | RF3 | MN - Radiofarmacia Nivel 3     |
 | RF2 | MN - Radiofarmacia Nivel 1 y 2 |
 
 ### Gestión Administrativa Contable
 
-| Cod | Gestión Administrativa Contable  |
-| --- | -------------------------------- |
-| TUR | Turnos                           |
-| ADS | Administración Servicios Médicos |
-| ADI | Administración Informes Médicos  |
-| FAC | Facturación                      |
-| COB | Cobranzas                        |
-| TES | Tesorería                        |
-| CNV | Convenios                        |
-| CNT | Contaduría                       |
-| FNZ | Finanzas                         |
+| Cod | Gestión Administrativa Contable |
+| --- | ------------------------------- |
+| TUR | Turnos                          |
+| INF | Administración Informes Médicos |
+| FAC | Facturación                     |
+| COB | Cobranzas                       |
+| TES | Tesorería                       |
+| CNV | Convenios                       |
+| CNT | Contaduría                      |
+| FNZ | Finanzas                        |
 
 ### Gestión Estratégica y de Soporte
 
-| Cod | Gestión Estratégica y de Soporte |
-| --- | -------------------------------- |
-| GER | Gerencia                         |
-| RHH | Recursos Humanos                 |
-| DEI | Docencia e Investigación         |
-| COM | Comunicación                     |
-| CAL | Calidad                          |
+| Cod | Gestión Estratégica y de Soporte     |
+| --- | ------------------------------------ |
+| GER | Gerencia                             |
+| RHH | Recursos Humanos - Talento y Cultura |
+| DEI | Docencia e Investigación             |
+| COM | Comunicación                         |
+| CAL | Calidad                              |
 
 ### Gestión de Recursos Físicos e Informáticos
 
