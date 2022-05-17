@@ -14,6 +14,8 @@ CNEA: Comisión Nacional de Energía Atómica
 
 UNCuyo: Universidad Nacional de Cuyo
 
+COIR: Centro Oncológico de Integración Regional
+
 ARN: Autoridad Regulatoria Nuclear
 
 ### Sistema de Gestión
@@ -47,13 +49,15 @@ OM: Oportunidad de mejora
 | Cod | Sede                                              |
 | --- | ------------------------------------------------- |
 | GEN | General - Elementos que incluye a todas las sedes |
-| MZA | Sede Mendoza (Central)                            |
+| MZ  | Sede Mendoza (Central)                            |
 | SR  | Sede San Rafael                                   |
-| MAI | Sede Maipú                                        |
-| UCO | Sede Valle de Uco                                 |
-| HIT | Sede Hospital Italiano                            |
-| HUN | Hospital Universatario                            |
-| CEC | Centro Emilio Conni                               |
+| MA  | Sede Maipú                                        |
+| UC  | Sede Valle de Uco                                 |
+| HI  | Sede Hospital Italiano                            |
+| CO  | COIR                                              |
+| HU  | Hospital Universitario                            |
+| CN  | Centro Emilio Coni                                |
+| EC  | Hospital El Carmen                                |
 
 ### Servicios Médicos
 
