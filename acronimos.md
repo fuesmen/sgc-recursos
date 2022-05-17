@@ -55,6 +55,7 @@ OM: Oportunidad de mejora
 | UC  | Sede Valle de Uco                                 |
 | HI  | Sede Hospital Italiano                            |
 | CO  | COIR                                              |
+| HC  | Hospital Central                                  |
 | HU  | Hospital Universitario                            |
 | CN  | Centro Emilio Coni                                |
 | EC  | Hospital El Carmen                                |
