@@ -8,15 +8,13 @@ description: >-
 
 ### Generales
 
-FUESMEN: Fundación Escuela de Medicina Nuclear
-
-CNEA: Comisión Nacional de Energía Atómica
-
-UNCuyo: Universidad Nacional de Cuyo
-
-COIR: Centro Oncológico de Integración Regional
-
-ARN: Autoridad Regulatoria Nuclear
+| Código  | Descripción                               |
+| ------- | ----------------------------------------- |
+| FUESMEN | Fundación Escuela de Medicina Nuclear     |
+| CNEA    | Comisión Nacional de Energía Atómica      |
+| UNCuyo  | Universidad Nacional de Cuyo              |
+| COIR    | Centro Oncológico de Integración Regional |
+| ARN     | Autoridad Regulatoria Nuclear             |
 
 ### Sistema de Gestión
 
@@ -44,21 +42,21 @@ NC: No conformidad
 
 OM: Oportunidad de mejora
 
-### Sedes
+### Lugares
 
-| Cod | Sede                                                                                                      |
-| --- | --------------------------------------------------------------------------------------------------------- |
-| GN  | General - Elementos que incluye a todas las sedes                                                         |
-| MZ  | Sede Mendoza (Central)                                                                                    |
-| SR  | Sede San Rafael                                                                                           |
-| MA  | Sede Maipú                                                                                                |
-| UC  | Sede Valle de Uco                                                                                         |
-| HI  | Sede Hospital Italiano                                                                                    |
-| CO  | COIR                                                                                                      |
-| HC  | Hospital Central                                                                                          |
-| HU  | Hospital Universitario                                                                                    |
-| CN  | Centro Emilio Coni                                                                                        |
-| EC  | Hospital El Carmen                                                                                        |
+| Código | Descripción                                                                                               |
+| ------ | --------------------------------------------------------------------------------------------------------- |
+| GN     | General - Elementos que incluye a todas las sedes                                                         |
+| MZ     | Sede Mendoza (Central)                                                                                    |
+| SR     | Sede San Rafael                                                                                           |
+| MA     | Sede Maipú                                                                                                |
+| UC     | Sede Valle de Uco                                                                                         |
+| HI     | Sede Hospital Italiano                                                                                    |
+| HC     | Hospital Central                                                                                          |
+| HU     | Hospital Universitario                                                                                    |
+| CN     | Centro Emilio Coni                                                                                        |
+| EC     | Hospital El Carmen                                                                                        |
+| CO     | COIR                                                                                                      |
 
 ### Servicios Médicos
 
