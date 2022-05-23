@@ -62,7 +62,7 @@ description: >-
 | TAC    | Tomografía                     |
 | ECO    | Ecografía - EcoDoppler         |
 | MAM    | Mamografía                     |
-| DMO    | Densitometría                  |
+| DEN    | Densitometría                  |
 | LAB    | Laboratorio                    |
 | CAR    | CardioFUESMEN                  |
 | NER    | NeuroFUESMEN                   |
@@ -72,8 +72,8 @@ description: >-
 | BIM    | Biología Molecular             |
 | ANE    | Anestesia                      |
 | CIC    | MN - Ciclotrón                 |
-| RF3    | MN - Radiofarmacia Nivel 3     |
-| RF2    | MN - Radiofarmacia Nivel 1 y 2 |
+| RFC    | MN - Radiofarmacia Nivel 3     |
+| RFP    | MN - Radiofarmacia Nivel 1 y 2 |
 
 ### Gestión Administrativa Contable
 
@@ -92,7 +92,7 @@ description: >-
 
 | Código | Descripción                          |
 | ------ | ------------------------------------ |
-| GER    | Gerencia                             |
+| GCA    | Gerencia                             |
 | RHH    | Recursos Humanos - Talento y Cultura |
 | DEI    | Docencia e Investigación             |
 | COM    | Comunicación                         |
@@ -103,8 +103,8 @@ description: >-
 | Código | Descripción                      |
 | ------ | -------------------------------- |
 | IYS    | Informática y Sistemas           |
-| MTG    | Mantenimiento General y Edilicio |
-| MTE    | Mantenimiento de Equipos         |
+| MAN    | Mantenimiento General y Edilicio |
+| ING    | Ingeniería - Equipamiento médico |
 | SUM    | Suministros y Logística          |
 | HYS    | Higiene y Seguridad              |
 | RFS    | Radiofísica Sanitaria            |
