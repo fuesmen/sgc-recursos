@@ -115,3 +115,6 @@ description: >-
 
 {% embed url="https://www.figma.com/file/eu4jsPzU2WO6PmsDk8D2kf/FUESMEN---Procesos?node-id=1077:230" %}
 
+Check Airtable
+
+{% embed url="https://airtable.com/embed/shrkuIL8OgASY7rni?backgroundColor=blue&viewControls=on" %}
