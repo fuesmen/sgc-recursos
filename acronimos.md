@@ -118,3 +118,7 @@ description: >-
 Check Airtable
 
 {% embed url="https://airtable.com/embed/shrkuIL8OgASY7rni?backgroundColor=blue&viewControls=on" %}
+
+Y ahora el formulario
+
+{% embed url="https://airtable.com/shr2LTmuWgVhRDarD" %}
