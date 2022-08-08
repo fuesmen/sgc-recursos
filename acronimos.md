@@ -8,13 +8,14 @@ description: >-
 
 ### Generales
 
-| Código  | Descripción                               |
-| ------- | ----------------------------------------- |
-| FUESMEN | Fundación Escuela de Medicina Nuclear     |
-| CNEA    | Comisión Nacional de Energía Atómica      |
-| UNCuyo  | Universidad Nacional de Cuyo              |
-| COIR    | Centro Oncológico de Integración Regional |
-| ARN     | Autoridad Regulatoria Nuclear             |
+| Código  | Descripción                                |
+| ------- | ------------------------------------------ |
+| FUESMEN | Fundación Escuela de Medicina Nuclear      |
+| CNEA    | Comisión Nacional de Energía Atómica       |
+| UNCuyo  | Universidad Nacional de Cuyo               |
+| COIR    | Centro Oncológico de Integración Regional  |
+| ARN     | Autoridad Regulatoria Nuclear              |
+| OIEA    | Organismo Internacional de Energía Atómica |
 
 ### Sistema de Gestión
 
@@ -37,7 +38,7 @@ description: >-
 
 | Código | Descripción                                                                                               |
 | ------ | --------------------------------------------------------------------------------------------------------- |
-| GN     | General - Elementos que incluye a todas las sedes                                                         |
+| GN     | General _(para utilizar en elementos que incluye a todas las sedes)_                                      |
 | MZ     | Sede Mendoza (Central)                                                                                    |
 | SR     | Sede San Rafael                                                                                           |
 | MA     | Sede Maipú                                                                                                |
@@ -51,29 +52,30 @@ description: >-
 
 ### Servicios Médicos
 
-| Código | Descripción                    |
-| ------ | ------------------------------ |
-| PET    | MN - PET                       |
-| GAM    | MN - Cámara Gamma              |
-| CEN    | MN - Tiroides Centellografía   |
-| RTX    | Radioterapia                   |
-| QTX    | Quimioterapia                  |
-| RMN    | Resonancia Magnética           |
-| TAC    | Tomografía                     |
-| ECO    | Ecografía - EcoDoppler         |
-| MAM    | Mamografía                     |
-| DEN    | Densitometría                  |
-| LAB    | Laboratorio                    |
-| CAR    | CardioFUESMEN                  |
-| NER    | NeuroFUESMEN                   |
-| NEU    | Neumonología                   |
-| GIN    | Ginecología                    |
-| CON    | Consultorios                   |
-| BIM    | Biología Molecular             |
-| ANE    | Anestesia                      |
-| CIC    | MN - Ciclotrón                 |
-| RFC    | MN - Radiofarmacia Nivel 3     |
-| RFP    | MN - Radiofarmacia Nivel 1 y 2 |
+| Código | Descripción                                                                     |
+| ------ | ------------------------------------------------------------------------------- |
+| MEN    | Medicina Nuclear _(para utilizar en elementos comunes a todo Medicina Nuclear)_ |
+| PET    | MEN - PET                                                                       |
+| GAM    | MEN - Cámara Gamma                                                              |
+| CEN    | MEN - Tiroides Centellografía                                                   |
+| RTX    | Radioterapia                                                                    |
+| QTX    | Quimioterapia                                                                   |
+| RMN    | Resonancia Magnética                                                            |
+| TAC    | Tomografía                                                                      |
+| ECO    | Ecografía - EcoDoppler                                                          |
+| MAM    | Mamografía                                                                      |
+| DEN    | Densitometría                                                                   |
+| LAB    | Laboratorio                                                                     |
+| CAR    | CardioFUESMEN                                                                   |
+| NER    | NeuroFUESMEN                                                                    |
+| NEU    | Neumonología                                                                    |
+| GIN    | Ginecología                                                                     |
+| CON    | Consultorios                                                                    |
+| BIM    | Biología Molecular                                                              |
+| ANE    | Anestesia                                                                       |
+| CIC    | MN - Ciclotrón                                                                  |
+| RFC    | MN - Radiofarmacia Nivel 3                                                      |
+| RFP    | MN - Radiofarmacia Nivel 1 y 2                                                  |
 
 ### Gestión Administrativa Contable
 
@@ -109,16 +111,3 @@ description: >-
 | HYS    | Higiene y Seguridad              |
 | RFS    | Radiofísica Sanitaria            |
 
-
-
-#### FIGMA Integration:
-
-{% embed url="https://www.figma.com/file/eu4jsPzU2WO6PmsDk8D2kf/FUESMEN---Procesos?node-id=1077:230" %}
-
-Check Airtable
-
-{% embed url="https://airtable.com/embed/shrkuIL8OgASY7rni?backgroundColor=blue&viewControls=on" %}
-
-Y ahora el formulario
-
-{% embed url="https://airtable.com/shr2LTmuWgVhRDarD" %}
