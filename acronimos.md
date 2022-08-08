@@ -79,16 +79,17 @@ description: >-
 
 ### Gestión Administrativa Contable
 
-| Código | Descripción                     |
-| ------ | ------------------------------- |
-| TUR    | Turnos                          |
-| INF    | Administración Informes Médicos |
-| FAC    | Facturación                     |
-| COB    | Cobranzas                       |
-| TES    | Tesorería                       |
-| CNV    | Convenios                       |
-| CNT    | Contaduría                      |
-| FNZ    | Finanzas                        |
+| Código | Descripción                      |
+| ------ | -------------------------------- |
+| TUR    | Turnos                           |
+| SRV    | Administración Servicios Médicos |
+| INF    | Administración Informes Médicos  |
+| FAC    | Facturación                      |
+| COB    | Cobranzas                        |
+| TES    | Tesorería                        |
+| CNV    | Convenios                        |
+| CNT    | Contaduría                       |
+| FNZ    | Finanzas                         |
 
 ### Gestión Estratégica y de Soporte
 
