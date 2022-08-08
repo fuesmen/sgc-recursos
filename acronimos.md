@@ -120,3 +120,23 @@ description: >-
 | HYS    | Higiene y Seguridad              |
 | RFS    | Radiofísica Sanitaria            |
 
+### Otros códigos internos del Sistema de Gestión
+
+#### Espacios de trabajo Gitbook:
+
+| Código | Descripción                                |
+| ------ | ------------------------------------------ |
+| sg     | Manual del Sistema de Gestión              |
+| mn     | Medicina Nuclear                           |
+| rt     | Radioterapia                               |
+| rh     | Recursos Humanos - Talento y Cultura       |
+| ga     | Gestión Administrativa                     |
+| gr     | Gestión de Recursos Físicos e Informáticos |
+| no     | Normas Operativas                          |
+| gc     | Gestión Contable                           |
+| cl     | Área de Calidad                            |
+| et     | Explicación de Términos                    |
+| iu     | Información Útil                           |
+| em     | Emergencias Médicas                        |
+| er     | Emergencias Radiológicas                   |
+
