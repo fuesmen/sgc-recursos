@@ -22,33 +22,42 @@ description: >-
 | Código | Descripción                                            |
 | ------ | ------------------------------------------------------ |
 | SG     | Sistema de Gestión                                     |
-| M      | Manual                                                 |
+| MA     | Manual                                                 |
 | PE     | Procedimiento estratégico                              |
 | PO     | Procedimiento operativo                                |
 | PS     | Procedimiento de soporte                               |
-| R      | Reporte                                                |
-| F      | Formulario (para ingresar nuevos datos en un registro) |
-| C      | Consideraciones Generales                              |
+| RE     | Reporte                                                |
+| FO     | Formulario (para ingresar nuevos datos en un registro) |
+| CG     | Consideraciones Generales                              |
 | PA     | Plan de acción                                         |
-| E      | Eventos                                                |
+| EV     | Eventos                                                |
 | NC     | No conformidad                                         |
 | OM     | Oportunidad de mejora                                  |
+|        |                                                        |
 
 ### Lugares
 
-| Código | Descripción                                                                                               |
-| ------ | --------------------------------------------------------------------------------------------------------- |
-| GN     | General _(para utilizar en elementos que incluye a todas las sedes)_                                      |
-| MZ     | Sede Mendoza (Central)                                                                                    |
-| SR     | Sede San Rafael                                                                                           |
-| MA     | Sede Maipú                                                                                                |
-| UC     | Sede Valle de Uco                                                                                         |
-| HI     | Sede Hospital Italiano                                                                                    |
-| HC     | Hospital Central                                                                                          |
-| HU     | Hospital Universitario                                                                                    |
-| CN     | Centro Emilio Coni                                                                                        |
-| EC     | Hospital El Carmen                                                                                        |
-| CO     | COIR                                                                                                      |
+| Código                         | Descripción                                                                                               |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| GN                             | General _(para utilizar en elementos que incluye a todas las sedes)_                                      |
+| MZ                             | Sede Mendoza (Central)                                                                                    |
+| SR                             | Sede San Rafael                                                                                           |
+| MA                             | Sede Maipú                                                                                                |
+| UC                             | Sede Valle de Uco                                                                                         |
+| HI                             | Sede Hospital Italiano                                                                                    |
+| HC                             | Hospital Central                                                                                          |
+| HU                             | Hospital Universitario                                                                                    |
+| CN                             | Centro Emilio Coni                                                                                        |
+| EC                             | Hospital El Carmen                                                                                        |
+| CO                             | COIR                                                                                                      |
+| _Espacios de trabajo Gitbook:_ |                                                                                                           |
+| sg                             | Manual del Sistema de Gestión                                                                             |
+| mn                             | Medicina Nuclear                                                                                          |
+| ga                             | Gestión Administrativa                                                                                    |
+| gc                             | Gestión Contable                                                                                          |
+| rh                             | Recursos Humanos - Talento y Cultura                                                                      |
+| cl                             | Área de Calidad                                                                                           |
+| et                             | Explicación de Términos                                                                                   |
 
 ### Servicios Médicos
 
