@@ -73,9 +73,9 @@ description: >-
 | CON    | Consultorios                                                                    |
 | BIM    | Biología Molecular                                                              |
 | ANE    | Anestesia                                                                       |
-| CIC    | MN - Ciclotrón                                                                  |
-| RFC    | MN - Radiofarmacia Nivel 3                                                      |
-| RFP    | MN - Radiofarmacia Nivel 1 y 2                                                  |
+| CIC    | MEN - Ciclotrón                                                                 |
+| RFP    | MEN - Radiofarmacia PET - Nivel 3                                               |
+| RFC    | MEN - Radiofarmacia Cámara Gamma - Nivel 1 y 2                                  |
 
 ### Gestión Administrativa Contable
 
