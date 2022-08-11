@@ -77,13 +77,38 @@ description: >-
 | RFP    | MEN - Radiofarmacia PET - Nivel 3                                               |
 | RFC    | MEN - Radiofarmacia Cámara Gamma - Nivel 1 y 2                                  |
 
-### Gestión Administrativa Contable
+### Gestión de Turnos y Convenios
 
 | Código | Descripción                      |
 | ------ | -------------------------------- |
+| GTC    | Gestión de Turnos y Convenios    |
 | TUR    | Turnos                           |
+| CCF    | Centro de Contacto FUESMEN       |
 | SRV    | Administración Servicios Médicos |
 | INF    | Administración Informes Médicos  |
+| CNV    | Convenios                        |
+
+### Gestión Administrativa Contable
+
+| Código | Descripción                     |
+| ------ | ------------------------------- |
+| GAC    | Gestión Administrativa Contable |
+| GCO    | Gestión Contable                |
+| FAC    | Facturación                     |
+| COB    | Cobranzas                       |
+| TES    | Tesorería                       |
+| CNT    | Contaduría                      |
+| FNZ    | Finanzas                        |
+|        | Sueldos y Honorarios            |
+
+| Código | Descripción                      |
+| ------ | -------------------------------- |
+| GAD    | Gestión Administrativa           |
+| TUR    | Turnos                           |
+| CCF    | Centro de Contacto FUESMEN       |
+| SRV    | Administración Servicios Médicos |
+| INF    | Administración Informes Médicos  |
+| GCO    | Gestión Contable                 |
 | FAC    | Facturación                      |
 | COB    | Cobranzas                        |
 | TES    | Tesorería                        |
