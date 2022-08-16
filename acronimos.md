@@ -77,44 +77,29 @@ description: >-
 | RFP    | MEN - Radiofarmacia PET - Nivel 3                                               |
 | RFC    | MEN - Radiofarmacia Cámara Gamma - Nivel 1 y 2                                  |
 
-### Gestión de Turnos y Convenios
+### Gestión de Turnos y Coordinación Administrativa de Pacientes
 
-| Código | Descripción                      |
-| ------ | -------------------------------- |
-| GTC    | Gestión de Turnos y Convenios    |
-| TUR    | Turnos                           |
-| CCF    | Centro de Contacto FUESMEN       |
-| SRV    | Administración Servicios Médicos |
-| INF    | Administración Informes Médicos  |
-| CNV    | Convenios                        |
+| Código  | Descripción                                                      |
+| ------- | ---------------------------------------------------------------- |
+| **GTA** | **Gestión de Turnos y Coordinación Administrativa de Pacientes** |
+| TUR     | Turnos                                                           |
+| CCF     | Centro de Contacto FUESMEN                                       |
+| GAS     | Gestión Administrativa de Servicios Médicos                      |
+| INF     | Gestión Administrativa de Informes Médicos                       |
 
 ### Gestión Administrativa Contable
 
-| Código | Descripción                     |
-| ------ | ------------------------------- |
-| GAC    | Gestión Administrativa Contable |
-| GCO    | Gestión Contable                |
-| FAC    | Facturación                     |
-| COB    | Cobranzas                       |
-| TES    | Tesorería                       |
-| CNT    | Contaduría                      |
-| FNZ    | Finanzas                        |
-|        | Sueldos y Honorarios            |
-
-| Código | Descripción                      |
-| ------ | -------------------------------- |
-| GAD    | Gestión Administrativa           |
-| TUR    | Turnos                           |
-| CCF    | Centro de Contacto FUESMEN       |
-| SRV    | Administración Servicios Médicos |
-| INF    | Administración Informes Médicos  |
-| GCO    | Gestión Contable                 |
-| FAC    | Facturación                      |
-| COB    | Cobranzas                        |
-| TES    | Tesorería                        |
-| CNV    | Convenios                        |
-| CNT    | Contaduría                       |
-| FNZ    | Finanzas                         |
+| Código  | Descripción                         |
+| ------- | ----------------------------------- |
+| **GAC** | **Gestión Administrativa Contable** |
+| GCO     | Gestión Contable                    |
+| FAC     | Facturación                         |
+| COB     | Cobranzas                           |
+| TES     | Tesorería                           |
+| CNT     | Contaduría                          |
+| CNV     | Convenios                           |
+| FNZ     | Finanzas                            |
+|         | Sueldos y Honorarios                |
 
 ### Gestión Estratégica y de Soporte
 
@@ -136,24 +121,4 @@ description: >-
 | SUM    | Suministros y Logística          |
 | HYS    | Higiene y Seguridad              |
 | RFS    | Radiofísica Sanitaria            |
-
-### Otros códigos internos del Sistema de Gestión
-
-#### Espacios de trabajo Gitbook:
-
-| Código | Descripción                                |
-| ------ | ------------------------------------------ |
-| sg     | Manual del Sistema de Gestión              |
-| mn     | Medicina Nuclear                           |
-| rt     | Radioterapia                               |
-| rh     | Recursos Humanos - Talento y Cultura       |
-| ga     | Gestión Administrativa                     |
-| gr     | Gestión de Recursos Físicos e Informáticos |
-| no     | Normas Operativas                          |
-| gc     | Gestión Contable                           |
-| cl     | Área de Calidad                            |
-| et     | Explicación de Términos                    |
-| iu     | Información Útil                           |
-| em     | Emergencias Médicas                        |
-| er     | Emergencias Radiológicas                   |
 
