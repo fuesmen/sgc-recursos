@@ -17,6 +17,10 @@ description: >-
 | ARN     | Autoridad Regulatoria Nuclear              |
 | OIEA    | Organismo Internacional de Energía Atómica |
 
+{% embed url="https://docs.google.com/spreadsheets/d/1SstdGDH5UsPzS8n-FDVDMq9ZqrDy0AVUBS0ShM_qnW8/edit#gid=0" %}
+
+{% embed url="https://docs.google.com/spreadsheets/d/1SstdGDH5UsPzS8n-FDVDMq9ZqrDy0AVUBS0ShM_qnW8/edit?usp=sharing" %}
+
 ### Sistema de Gestión
 
 | Código | Descripción                                            |
