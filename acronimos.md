@@ -93,6 +93,7 @@ description: >-
 | ------- | ----------------------------------- |
 | **GAC** | **Gestión Administrativa Contable** |
 | GCO     | Gestión Contable                    |
+| CGI     | Control de Gestión Interna          |
 | FAC     | Facturación                         |
 | COB     | Cobranzas                           |
 | TES     | Tesorería                           |
