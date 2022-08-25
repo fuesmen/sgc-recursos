@@ -100,7 +100,8 @@ description: >-
 | CNT     | Contaduría                          |
 | CNV     | Convenios                           |
 | FNZ     | Finanzas                            |
-|         | Sueldos y Honorarios                |
+| SYH     | Sueldos y Honorarios                |
+|         |                                     |
 
 ### Gestión Estratégica y de Soporte
 
