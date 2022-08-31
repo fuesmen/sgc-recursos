@@ -62,7 +62,8 @@ description: >-
 | QTX    | Quimioterapia                                                                   |
 | RMN    | Resonancia Magnética                                                            |
 | TAC    | Tomografía                                                                      |
-| ECO    | Ecografía - EcoDoppler                                                          |
+| ECO    | Ecografía                                                                       |
+| DOP    | Doppler                                                                         |
 | MAM    | Mamografía                                                                      |
 | DEN    | Densitometría                                                                   |
 | LAB    | Laboratorio                                                                     |
@@ -86,6 +87,7 @@ description: >-
 | CCF     | Centro de Contacto FUESMEN                                       |
 | GAS     | Gestión Administrativa de Servicios Médicos                      |
 | INF     | Gestión Administrativa de Informes Médicos                       |
+| CNV     | Convenios                                                        |
 
 ### Gestión Administrativa Contable
 
@@ -98,10 +100,8 @@ description: >-
 | COB     | Cobranzas                           |
 | TES     | Tesorería                           |
 | CNT     | Contaduría                          |
-| CNV     | Convenios                           |
 | FNZ     | Finanzas                            |
 | SYH     | Sueldos y Honorarios                |
-|         |                                     |
 
 ### Gestión Estratégica y de Soporte
 
