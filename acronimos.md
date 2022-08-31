@@ -52,31 +52,32 @@ description: >-
 
 ### Servicios Médicos
 
-| Código | Descripción                                                                     |
-| ------ | ------------------------------------------------------------------------------- |
-| MEN    | Medicina Nuclear _(para utilizar en elementos comunes a todo Medicina Nuclear)_ |
-| PET    | MEN - PET                                                                       |
-| GAM    | MEN - Cámara Gamma                                                              |
-| CEN    | MEN - Tiroides Centellografía                                                   |
-| RTX    | Radioterapia                                                                    |
-| QTX    | Quimioterapia                                                                   |
-| RMN    | Resonancia Magnética                                                            |
-| TAC    | Tomografía                                                                      |
-| ECO    | Ecografía                                                                       |
-| DOP    | Doppler                                                                         |
-| MAM    | Mamografía                                                                      |
-| DEN    | Densitometría                                                                   |
-| LAB    | Laboratorio                                                                     |
-| CAR    | CardioFUESMEN                                                                   |
-| NER    | NeuroFUESMEN                                                                    |
-| NEU    | Neumonología                                                                    |
-| GIN    | Ginecología                                                                     |
-| CON    | Consultorios                                                                    |
-| BIM    | Biología Molecular                                                              |
-| ANE    | Anestesia                                                                       |
-| CIC    | MEN - Ciclotrón                                                                 |
-| RFP    | MEN - Radiofarmacia PET - Nivel 3                                               |
-| RFC    | MEN - Radiofarmacia Cámara Gamma - Nivel 1 y 2                                  |
+| Código  | Descripción                                                                     |
+| ------- | ------------------------------------------------------------------------------- |
+| **DME** | **Dirección Médica**                                                            |
+| MEN     | Medicina Nuclear _(para utilizar en elementos comunes a todo Medicina Nuclear)_ |
+| PET     | MEN - PET                                                                       |
+| GAM     | MEN - Cámara Gamma                                                              |
+| CEN     | MEN - Tiroides Centellografía                                                   |
+| RTX     | Radioterapia                                                                    |
+| QTX     | Quimioterapia                                                                   |
+| RMN     | Resonancia Magnética                                                            |
+| TAC     | Tomografía                                                                      |
+| ECO     | Ecografía                                                                       |
+| DOP     | Doppler                                                                         |
+| MAM     | Mamografía                                                                      |
+| DEN     | Densitometría                                                                   |
+| LAB     | Laboratorio                                                                     |
+| CAR     | CardioFUESMEN                                                                   |
+| NER     | NeuroFUESMEN                                                                    |
+| NEU     | Neumonología                                                                    |
+| GIN     | Ginecología                                                                     |
+| CON     | Consultorios                                                                    |
+| BIM     | Biología Molecular                                                              |
+| ANE     | Anestesia                                                                       |
+| CIC     | MEN - Ciclotrón                                                                 |
+| RFP     | MEN - Radiofarmacia PET - Nivel 3                                               |
+| RFC     | MEN - Radiofarmacia Cámara Gamma - Nivel 1 y 2                                  |
 
 ### Gestión de Turnos y Coordinación Administrativa de Pacientes
 
@@ -107,7 +108,8 @@ description: >-
 
 | Código | Descripción                          |
 | ------ | ------------------------------------ |
-| GCA    | Gerencia                             |
+| GCA    | Gerencia General                     |
+| DAF    | Dirección Administrativa Financiera  |
 | RHH    | Recursos Humanos - Talento y Cultura |
 | DEI    | Docencia e Investigación             |
 | COM    | Comunicación                         |
@@ -115,12 +117,13 @@ description: >-
 
 ### Gestión de Recursos Físicos e Informáticos
 
-| Código | Descripción                      |
-| ------ | -------------------------------- |
-| IYS    | Informática y Sistemas           |
-| MAN    | Mantenimiento General y Edilicio |
-| ING    | Ingeniería - Equipamiento médico |
-| SUM    | Suministros y Logística          |
-| HYS    | Higiene y Seguridad              |
-| RFS    | Radiofísica Sanitaria            |
+| Código  | Descripción                      |
+| ------- | -------------------------------- |
+| **DDO** | **Dirección de Operaciones**     |
+| IYS     | Informática y Sistemas           |
+| MAN     | Mantenimiento General y Edilicio |
+| ING     | Ingeniería - Equipamiento médico |
+| SUM     | Suministros y Logística          |
+| HYS     | Higiene y Seguridad              |
+| RFS     | Radiofísica Sanitaria            |
 
