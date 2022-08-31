@@ -93,15 +93,15 @@ description: >-
 
 | Código  | Descripción                         |
 | ------- | ----------------------------------- |
-| **GAC** | **Gestión Administrativa Contable** |
-| GCO     | Gestión Contable                    |
+| **GCO** | **Gestión Administrativa Contable** |
+| CNT     | Contaduría                          |
 | CGE     | Control de Gestión                  |
 | FAC     | Facturación                         |
 | COB     | Cobranzas                           |
 | TES     | Tesorería                           |
-| CNT     | Contaduría                          |
 | FNZ     | Finanzas                            |
-| SYH     | Sueldos y Honorarios                |
+| LSU     | Liquidación de Sueldos              |
+| LHO     | Liquidación de Honorarios           |
 
 ### Gestión Estratégica y de Soporte
 
