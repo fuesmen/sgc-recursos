@@ -26,3 +26,7 @@ Free arrancando en otro
 
 {% embed url="https://miro.com/app/live-embed/o9J_kgE9jxc=/?moveToViewport=9246,135,4856,3259" %}
 
+## Directo del frame
+
+{% embed url="https://miro.com/app/board/o9J_kgE9jxc=/?moveToWidget=3458764522230841741&cot=14" %}
+
