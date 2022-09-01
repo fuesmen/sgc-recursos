@@ -12,3 +12,13 @@ Miro frame
 
 {% embed url="https://miro.com/app/embed/o9J_kgE9jxc=/?pres=1&frameId=3074457352604771176&embedId=156261540064" %}
 
+## Free user bot
+
+{% embed url="https://miro.com/app/live-embed/o9J_kgE9jxc=/?moveToViewport=1244,1368,2413,1242&embedId=446226585890" %}
+
+Free arrancando en otro
+
+
+
+{% embed url="https://miro.com/app/live-embed/o9J_kgE9jxc=/?moveToViewport=9246,135,4856,3259&embedId=550077074020" %}
+
