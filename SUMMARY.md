@@ -3,4 +3,3 @@
 * [Explicación de términos](README.md)
 * [Acrónimos](acronimos.md)
 * [Codificación](codificacion.md)
-* [Testing](testing.md)
