@@ -54,6 +54,72 @@ description: >-
 
 {% embed url="https://airtable.com/embed/shrPwokNTnHjX8Hnf?backgroundColor=purple&viewControls=on" %}
 
+inicio
+
+
+
+| PET | MN - PET                             |   |
+| --- | ------------------------------------ | - |
+| GAM | MN - Cámara Gamma                    |   |
+| CEN | MN - Tiroides Centellografía         |   |
+| RTX | Radioterapia                         |   |
+| QTX | Quimioterapia                        |   |
+| RMN | Resonancia Magnética                 |   |
+| TAC | Tomografía                           |   |
+| ECO | Ecografía - EcoDoppler               |   |
+| MAM | Mamografía                           |   |
+| DEN | Densitometría                        |   |
+| LAB | Laboratorio                          |   |
+| CAR | CardioFUESMEN                        |   |
+| NER | NeuroFUESMEN                         |   |
+| NEU | Neumonología                         |   |
+| GIN | Ginecología                          |   |
+| CON | Consultorios                         |   |
+| BIM | Biología Molecular                   |   |
+| ANE | Anestesia                            |   |
+| CIC | MN - Ciclotrón                       |   |
+| RFC | MN - Radiofarmacia Nivel 3           |   |
+| RFP | MN - Radiofarmacia Nivel 1 y 2       |   |
+| TUR | Turnos                               |   |
+| INF | Administración Informes Médicos      |   |
+| FAC | Facturación                          |   |
+| COB | Cobranzas                            |   |
+| TES | Tesorería                            |   |
+| CNV | Convenios                            |   |
+| CNT | Contaduría                           |   |
+| FNZ | Finanzas                             |   |
+| GCA | Gerencia                             |   |
+| RHH | Recursos Humanos - Talento y Cultura |   |
+| DEI | Docencia e Investigación             |   |
+| COM | Comunicación                         |   |
+| CAL | Calidad                              |   |
+| IYS | Informática y Sistemas               |   |
+| MAN | Mantenimiento General y Edilicio     |   |
+| ING | Ingeniería - Equipamiento médico     |   |
+| SUM | Suministros y Logística              |   |
+| HYS | Higiene y Seguridad                  |   |
+| RFS | Radiofísica Sanitaria                |   |
+
+
+
+fin de prueba
+
+prueba dos
+
+{% embed url="https://docs.google.com/spreadsheets/d/1SstdGDH5UsPzS8n-FDVDMq9ZqrDy0AVUBS0ShM_qnW8/edit?usp=sharing" %}
+
+fin dos
+
+
+
+
+
+
+
+
+
+
+
 | Código  | Descripción                                                                     |
 | ------- | ------------------------------------------------------------------------------- |
 | **DME** | **Dirección Médica**                                                            |
