@@ -52,6 +52,8 @@ description: >-
 
 ### Servicios Médicos
 
+{% embed url="https://airtable.com/embed/shrPwokNTnHjX8Hnf?backgroundColor=purple&viewControls=on" %}
+
 | Código  | Descripción                                                                     |
 | ------- | ------------------------------------------------------------------------------- |
 | **DME** | **Dirección Médica**                                                            |
@@ -127,3 +129,6 @@ description: >-
 | HYS     | Higiene y Seguridad              |
 | RFS     | Radiofísica Sanitaria            |
 
+## Lista completa
+
+{% embed url="https://airtable.com/shrizbgm99he85sbF" %}
