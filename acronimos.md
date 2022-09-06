@@ -36,19 +36,7 @@ description: >-
 
 ### Lugares
 
-| Código | Descripción                                                                                               |
-| ------ | --------------------------------------------------------------------------------------------------------- |
-| GN     | General _(para utilizar en elementos que incluye a todas las sedes)_                                      |
-| MZ     | Sede Mendoza (Central)                                                                                    |
-| SR     | Sede San Rafael                                                                                           |
-| MA     | Sede Maipú                                                                                                |
-| UC     | Sede Valle de Uco                                                                                         |
-| HI     | Sede Hospital Italiano                                                                                    |
-| HC     | Hospital Central                                                                                          |
-| HU     | Hospital Universitario                                                                                    |
-| CN     | Centro Emilio Coni                                                                                        |
-| EC     | Hospital El Carmen                                                                                        |
-| CO     | COIR                                                                                                      |
+{% embed url="https://airtable.com/shrhc4sBasa50xfzq" %}
 
 ### Áreas
 
