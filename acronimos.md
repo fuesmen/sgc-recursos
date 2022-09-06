@@ -52,6 +52,8 @@ description: >-
 
 ### Servicios Médicos
 
+{% embed url="https://airtable.com/embed/shrizbgm99he85sbF?backgroundColor=purple&viewControls=on" %}
+
 {% embed url="https://airtable.com/embed/shrPwokNTnHjX8Hnf?backgroundColor=purple&viewControls=on" %}
 
 inicio
