@@ -50,6 +50,6 @@ description: >-
 | EC     | Hospital El Carmen                                                                                        |
 | CO     | COIR                                                                                                      |
 
-## Lista completa
+### Áreas
 
 {% embed url="https://airtable.com/shrqAEa5Gm2Uqu3dC" %}
