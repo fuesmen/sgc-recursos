@@ -8,31 +8,11 @@ description: >-
 
 ### Generales
 
-| Código  | Descripción                                |
-| ------- | ------------------------------------------ |
-| FUESMEN | Fundación Escuela de Medicina Nuclear      |
-| CNEA    | Comisión Nacional de Energía Atómica       |
-| UNCuyo  | Universidad Nacional de Cuyo               |
-| COIR    | Centro Oncológico de Integración Regional  |
-| ARN     | Autoridad Regulatoria Nuclear              |
-| OIEA    | Organismo Internacional de Energía Atómica |
+{% embed url="https://airtable.com/shrMXER1jtietTk2l" %}
 
 ### Sistema de Gestión
 
-| Código | Descripción                                            |
-| ------ | ------------------------------------------------------ |
-| SG     | Sistema de Gestión                                     |
-| MA     | Manual                                                 |
-| PE     | Procedimiento estratégico                              |
-| PO     | Procedimiento operativo                                |
-| PS     | Procedimiento de soporte                               |
-| RE     | Reporte                                                |
-| FO     | Formulario (para ingresar nuevos datos en un registro) |
-| CG     | Consideraciones Generales                              |
-| PA     | Plan de acción                                         |
-| EV     | Eventos                                                |
-| NC     | No conformidad                                         |
-| OM     | Oportunidad de mejora                                  |
+{% embed url="https://airtable.com/shrh8c1z2Q1nB9pek" %}
 
 ### Lugares
 
