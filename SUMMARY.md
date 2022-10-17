@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Explicación de términos](README.md)
+* [Emergencias Médicas](README.md)
