@@ -4,6 +4,10 @@
 
 
 
+<details>
+
+<summary>Sedes con cobertura y más información:</summary>
+
 **Sedes con cobertura**
 
 * Sede Mendoza (Garibaldi 405 y 393)
@@ -14,19 +18,19 @@
 
 Sedes en hospitales Italiano, Scaravelli, Universitario y El Carmen, atenderán las emergencias en esos establecimientos
 
-Más información en PDF adjunto
+Más información en [PDF adjunto](https://2824384839-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDlIiILJdOG4ftAMU20kj%2Fuploads%2FTt1a0Q8SUgLm9qfnK5MV%2Farea%20protegida\_2022\_05\_31\_13\_09\_11\_359.pdf?alt=media\&token=b3d3ebf0-e0c7-4542-ac6c-f09bb823bc34)
 
-{% file src=".gitbook/assets/area protegida_2022_05_31_13_09_11_359.pdf" %}
+</details>
 
 ## Ubicación de los DEA
 
-### Garibaldi 393, Planta Baja, Resonador Philips INGENIA
+### DEA 1: Garibaldi 393, Planta Baja, Resonador Philips INGENIA
 
 :red\_circle:Dentro del mueble, del lado izquierdo de la consola del equipo
 
 > Recordar que este DEA, podrá ser manipulado por todo el personal
 
-### Garibaldi 405, Segundo Subsuelo, Anestesia
+### DEA 2: Garibaldi 405, Segundo Subsuelo, Anestesia
 
 :red\_circle: Se encuentra bajo llave en el carro de anestesia
 
@@ -34,19 +38,23 @@ Más información en PDF adjunto
 
 ## Ubicación de Carros de Paro CON Cardiodesfibrilador
 
-#### :warning: Recordar que este equipamiento SOLO debe ser manipulado por personal médico calificado
-
 ### Garibaldi 405, Primer Piso, Cámara Gamma
 
 :red\_circle:Sala de Ergometrías
+
+> Recordar que este equipamiento SOLO debe ser manipulado por personal médico calificado
 
 ### Montecaseros 1020, Resonador COIR
 
 :red\_circle:Sala de Recuperación de Anestesia
 
+> Recordar que este equipamiento SOLO debe ser manipulado por personal médico calificado
+
 ### Garibaldi 393, Primer Piso, Gimnasio
 
 :red\_circle:Sala general del gimnasio, detrás del mueble de recepción
+
+> Recordar que este equipamiento SOLO debe ser manipulado por personal médico calificado
 
 ### Sede Maipú
 
