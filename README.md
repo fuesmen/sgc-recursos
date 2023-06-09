@@ -1,160 +1,59 @@
----
-description: >-
-  En esta sección encontrarás la explicación de términos utilizados en la
-  plataforma de gestión de la documentación de FUESMEN.
----
+# Emergencias Médicas
 
-# Explicación de términos
+## :telephone\_receiver::ambulance: **0810-888-3226    ECCO**
 
-### A - B - C
 
-#### Acción correctiva
 
-Acción o actividad necesaria para: a. Eliminar la causa de una no conformidad, y b. Evitar la ocurrencia o mitigar las consecuencias de eventos, previamente determinados, que afectan o puedan afectar a la seguridad.
+**Sedes con cobertura**
 
-#### Auditoría
+* Sede Mendoza (Garibaldi 405 y 393)
+* Garibaldi 374
+* COIR (Garibaldi 405 Patio Interno)
+* San Rafael
+* Maipú
 
-Proceso sistemático, independiente y documentado para la obtención y la evaluación de evidencias de manera objetiva, con el fin de determinar el grado de cumplimiento de los requisitos.
+Sedes en hospitales Italiano, Scaravelli, Universitario y El Carmen, atenderán las emergencias en esos establecimientos
 
-#### Cadena de suministro
+Más información en PDF adjunto
 
-Diseñadores, constructores, vendedores, fabricantes, empleadores, contratistas, subcontratistas, consignatarios y transportistas. La cadena de suministro puede incluir partes de la organización.
+{% file src=".gitbook/assets/area protegida_2022_05_31_13_09_11_359.pdf" %}
 
-#### Calibración
+## Ubicación de los DEA
 
-Conjunto de operaciones que establecen, en condiciones específicas, la relación entre los valores de magnitudes indicados por un instrumento de medida o sistema de medición, o los valores representados por una medida de material o un material de referencia, y los valores correspondientes obtenidos a partir de estándares de medición.
+### Garibaldi 393, Planta Baja, Resonador Philips INGENIA
 
-#### Competencia
+:red\_circle:Dentro del mueble, del lado izquierdo de la consola del equipo
 
-Conjunto de conocimientos, habilidades, aptitudes y actitudes para desempeñarse en una actividad o proceso con el fin de lograr los resultados previstos.&#x20;
+> Recordar que este DEA, podrá ser manipulado por todo el personal
 
-#### Conocimiento
+### Garibaldi 405, Segundo Subsuelo, Anestesia
 
-Conocimientos técnicos especializados para entender los aspectos técnicos, humanos y organizativos propios de la instalación o la práctica con el fin de garantizar la seguridad
+:red\_circle: Se encuentra bajo llave en el carro de anestesia
 
-#### Corrección
+> Recordar que este DEA, podrá ser manipulado por todo el personal
 
-Acción para eliminar una no conformidad detectada.
+## Ubicación de Carros de Paro CON Cardiodesfibrilador
 
-#### Cultura de seguridad
+#### :warning: Recordar que este equipamiento SOLO debe ser manipulado por personal médico calificado
 
-Conjunto de características y actitudes de las organizaciones y las personas que asegura, como prioridad, que las cuestiones relativas a la seguridad reciben la atención que merecen por su importancia.
+### Garibaldi 405, Primer Piso, Cámara Gamma
 
-#### Cultura organizacional
+:red\_circle:Sala de Ergometrías
 
-Conjunto de normas, tradiciones, valores y actitudes que guían el comportamiento del personal y de las relaciones entre ellos.
+### Montecaseros 1020, Resonador COIR
 
-### D - E - F
+:red\_circle:Sala de Recuperación de Anestesia
 
-#### Eficacia
+### Garibaldi 393, Primer Piso, Gimnasio
 
-Grado en el que se realizan las actividades planificadas y se logran los resultados esperados.
+:red\_circle:Sala general del gimnasio, detrás del mueble de recepción
 
-#### Enfoque graduado
+### Sede Maipú
 
-Proceso o método en el que el rigor de las acciones de control y las condiciones a ser aplicadas se corresponden con el nivel de riesgos asociados, esto es con la probabilidad de ocurrencia y las posibles consecuencias de la pérdida de control.
+:red\_circle: Ubicación a confirmar
 
-#### Entidad Responsable
+## Ubicación de Carro de Paro SIN Cardiodesfibrilador
 
-Persona humana o jurídica a la que la Autoridad Regulatoria le ha otorgado una o varias licencias, registros o autorizaciones de práctica no rutinaria.
+### Garibaldi 405, Planta Baja, Recepción - Información
 
-#### Evento
-
-Suceso incidental (incluidos sucesos iniciadores, precursores de accidentes y cuasi accidentes), suceso accidental o acto malicioso. Gestión del conocimiento: enfoque integrado y sistemático encaminado a identificar, gestionar y compartir los conocimientos de una organización, y a posibilitar que grupos de personas mantengan y creen colectivamente conocimientos para facilitar la consecución de los objetivos de la organización.
-
-### G - H - I
-
-#### Indicador
-
-Dato o conjunto de datos para cuantificar objetivamente la evolución de un proceso o de una actividad.
-
-#### Información
-
-_Información como recurso:_ Conocimientos o datos vinculados a la ejecución de tareas, actualización de tecnologías, nuevas reglamentaciones, comunicación interna y externa, documentación, registros, eventos, informes, acceso a bibliografía, entre otros.
-
-### J - K - L
-
-#### Liderazgo
-
-Competencia para dirigir, influenciar y comprometer a personas y grupos de personas hacia el logro de objetivos.
-
-### M - N - Ñ - O
-
-#### Manual de gestión
-
-Documento que establece requisitos para el sistema de gestión de una organización. No conformidad: no satisfacción de un requisito.
-
-#### Mapa de procesos
-
-Diagrama que representa los procesos de una organización en forma interrelacionada.
-
-#### Matriz de riesgos
-
-Es una herramienta de diagnóstico que permite identificar y priorizar los riesgos en un ámbito determinado
-
-#### Objetivo
-
-Resultado a lograr.
-
-#### Organización
-
-Persona o grupo de personas que tienen sus propias funciones con responsabilidades, autoridades y relaciones para lograr sus objetivos.
-
-### P - Q - R&#x20;
-
-#### Parte interesada
-
-Persona humana o jurídica que puede afectar, verse afectada o percibirse como afectada por una decisión o actividad.
-
-#### Política
-
-Orientaciones o directrices que rigen la actuación de una persona o entidad en un asunto o campo determinado.
-
-#### Política de seguridad
-
-Orientaciones y directrices, formalmente expresadas por la Entidad Responsable, que rigen la actuación de la organización en lo relativo a la seguridad.
-
-#### Práctica
-
-Toda tarea con fuente de radiación que produzca un incremento real o potencial de la exposición de las personas a la radiación ionizante, o de la cantidad de personas expuestas.
-
-#### Proceso
-
-Conjunto de actividades, mutuamente relacionadas, que utilizan las entradas para proporcionar un resultado previsto.&#x20;
-
-#### Procedimiento
-
-Secuencia de operaciones y actividades
-
-#### Punto de detención
-
-Etapa, en la secuencia de un proceso, más allá de la cual el elemento no puede ser procesado hasta ser liberado por la persona de la Entidad Responsable que solicita la detención.
-
-#### Punto de presencia
-
-Etapa, en la secuencia de un proceso, que debe ser notificada a la persona que realiza la inspección por parte de la Entidad Responsable, a fin de que pueda presenciar el desarrollo de las actividades involucradas. En el caso que dicha persona no pueda asistir, se puede avanzar hasta la próxima etapa.
-
-#### Requisito
-
-Característica exigible.
-
-### S - T - U
-
-#### Sistema de gestión
-
-Conjunto de elementos interrelacionados o interactuantes (sistema) destinado a establecer políticas y objetivos, y a posibilitar que se logren dichos objetivos de manera eficaz.
-
-#### Trazabilidad
-
-Capacidad para seguir la historia, la aplicación o la localización de un objeto, tal como producto, servicio, proceso, persona, organización, sistema o recurso.
-
-### V - W - X - Y - Z
-
-#### Validación
-
-Confirmación, mediante la provisión de evidencia objetiva, de que se han cumplido los requisitos para la utilización o aplicación específica prevista.
-
-#### Verificación
-
-Confirmación, mediante la provisión de evidencia objetiva, de que se han cumplido los requisitos especificados.
-
+:red\_circle:En el escritorio interno
