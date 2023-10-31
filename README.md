@@ -24,15 +24,9 @@ Más información en [PDF adjunto](https://2824384839-files.gitbook.io/\~/files/
 
 ## Ubicación de los DEA
 
-### DEA 1: Garibaldi 393, Planta Baja, Resonador Philips INGENIA
+### DEA 1: Garibaldi 405, Segundo Subsuelo, Anestesia
 
-:red\_circle:Dentro del mueble, del lado izquierdo de la consola del equipo
-
-> Recordar que este DEA, podrá ser manipulado por todo el personal
-
-### DEA 2: Garibaldi 405, Segundo Subsuelo, Anestesia
-
-:red\_circle: Se encuentra bajo llave en el carro de anestesia
+:red\_circle: Se encuentra en las estanterías de la sala de anestesia
 
 > Recordar que este DEA, podrá ser manipulado por todo el personal
 
