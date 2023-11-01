@@ -4,9 +4,11 @@
 
 
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 <details>
 
-<summary>Sedes con cobertura y más información:</summary>
+<summary><mark style="color:orange;">Sedes con cobertura y más información:</mark></summary>
 
 **Sedes con cobertura**
 
@@ -19,6 +21,12 @@
 Sedes en hospitales Italiano, Scaravelli, Universitario y El Carmen, atenderán las emergencias en esos establecimientos
 
 Más información en [PDF adjunto](https://2824384839-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDlIiILJdOG4ftAMU20kj%2Fuploads%2FTt1a0Q8SUgLm9qfnK5MV%2Farea%20protegida\_2022\_05\_31\_13\_09\_11\_359.pdf?alt=media\&token=b3d3ebf0-e0c7-4542-ac6c-f09bb823bc34)
+
+
+
+<mark style="color:orange;">**Más información de ECCO Emergencias:**</mark>
+
+[https://www.ecco.com.ar/individuales/st/emergencias](https://www.ecco.com.ar/individuales/st/emergencias)
 
 </details>
 
