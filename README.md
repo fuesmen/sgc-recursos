@@ -30,13 +30,21 @@ Más información en [PDF adjunto](https://2824384839-files.gitbook.io/\~/files/
 
 </details>
 
-## Ubicación de los DEA
+## Ubicación de los DEA (Desfibrilador Externo Automático)
 
-### DEA 1: Garibaldi 405, Segundo Subsuelo, Anestesia
+### DEA 1: Garibaldi 405, Oficina de Recepción - Información
+
+:red\_circle: Se encuentra en el mueble debajo de la caja de "Carro de Paro"
+
+> Recordar que este DEA, podrá ser manipulado por todo el personal
+
+### DEA 2: Garibaldi 405, Segundo Subsuelo, Anestesia
 
 :red\_circle: Se encuentra en las estanterías de la sala de anestesia
 
 > Recordar que este DEA, podrá ser manipulado por todo el personal
+
+##
 
 ## Ubicación de Carros de Paro CON Cardiodesfibrilador
 
@@ -61,6 +69,8 @@ Más información en [PDF adjunto](https://2824384839-files.gitbook.io/\~/files/
 ### Sede Maipú
 
 :red\_circle: Ubicación a confirmar
+
+##
 
 ## Ubicación de Carro de Paro SIN Cardiodesfibrilador
 
