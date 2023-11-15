@@ -34,13 +34,13 @@ Más información en [PDF adjunto](https://2824384839-files.gitbook.io/\~/files/
 
 ### DEA 1: Garibaldi 405, al lado del reloj donde se marca el ingreso
 
+<figure><img src=".gitbook/assets/box-dea.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
 :red\_circle: Se ubica en planta baja, pasillo sur.
 
 > Recordar que este DEA, podrá ser manipulado por todo el personal
 
-<figure><img src=".gitbook/assets/box-dea.jpeg" alt=""><figcaption></figcaption></figure>
 
-###
 
 ### DEA 2: Garibaldi 405, Segundo Subsuelo, Anestesia
 
