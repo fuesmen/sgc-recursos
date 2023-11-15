@@ -32,11 +32,15 @@ Más información en [PDF adjunto](https://2824384839-files.gitbook.io/\~/files/
 
 ## Ubicación de los DEA (Desfibrilador Externo Automático)
 
-### DEA 1: Garibaldi 405, Oficina de Recepción - Información
+### DEA 1: Garibaldi 405, al lado del reloj donde se marca el ingreso
 
-:red\_circle: Se encuentra en el mueble debajo de la caja de "Carro de Paro"
+:red\_circle: Se ubica en planta baja, pasillo sur.
 
 > Recordar que este DEA, podrá ser manipulado por todo el personal
+
+<figure><img src=".gitbook/assets/box-dea.jpeg" alt=""><figcaption></figcaption></figure>
+
+###
 
 ### DEA 2: Garibaldi 405, Segundo Subsuelo, Anestesia
 
