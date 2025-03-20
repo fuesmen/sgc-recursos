@@ -9,12 +9,10 @@
 {% hint style="danger" %}
 ### **AVISAR A RECEPCIÓN**&#x20;
 
-Luego de llamar al servicio de emergencias, **dar aviso a la recepción de FUESMEN** (personal administrativo y/o de seguridad emplazado emplazado en el ingreso), a fin de que apenas llegue la ambulancia, pueda ser guiado directo al lugar requerido. -\
+Luego de llamar al servicio de emergencias, **dar aviso a la recepción de FUESMEN** (personal administrativo y/o de seguridad emplazado en el ingreso), a fin de que en cuanto llegue la ambulancia, pueda ser guiado directo al lugar requerido.\
 \
-Por más precisión que se le de a la telefonista, habitualmente dicha precisión no llega al personal de la ambulancia, por lo que al llegar a recepción no tienen claro a dónde dirigirse dentro del edificio.
+Esto es necesario ya que habitualmente, por más precisión que se le informe a la telefonista, dicha información no llega al personal de la ambulancia.
 {% endhint %}
-
-
 
 <details>
 
