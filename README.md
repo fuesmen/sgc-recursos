@@ -6,6 +6,16 @@
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+### **AVISAR A RECEPCIÓN**&#x20;
+
+Luego de llamar al servicio de emergencias, **dar aviso a la recepción de FUESMEN** (personal administrativo y/o de seguridad emplazado emplazado en el ingreso), a fin de que apenas llegue la ambulancia, pueda ser guiado directo al lugar requerido. -\
+\
+Por más precisión que se le de a la telefonista, habitualmente dicha precisión no llega al personal de la ambulancia, por lo que al llegar a recepción no tienen claro a dónde dirigirse dentro del edificio.
+{% endhint %}
+
+
+
 <details>
 
 <summary><mark style="color:orange;">Sedes con cobertura y más información:</mark></summary>
@@ -20,7 +30,7 @@
 
 Sedes en hospitales Italiano, Scaravelli, Universitario y El Carmen, atenderán las emergencias en esos establecimientos
 
-Más información en [PDF adjunto](https://2824384839-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDlIiILJdOG4ftAMU20kj%2Fuploads%2FTt1a0Q8SUgLm9qfnK5MV%2Farea%20protegida\_2022\_05\_31\_13\_09\_11\_359.pdf?alt=media\&token=b3d3ebf0-e0c7-4542-ac6c-f09bb823bc34)
+Más información en [PDF adjunto](https://2824384839-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDlIiILJdOG4ftAMU20kj%2Fuploads%2FTt1a0Q8SUgLm9qfnK5MV%2Farea%20protegida_2022_05_31_13_09_11_359.pdf?alt=media\&token=b3d3ebf0-e0c7-4542-ac6c-f09bb823bc34)
 
 
 
