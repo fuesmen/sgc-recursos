@@ -1,91 +1,160 @@
-# Emergencias Médicas
+---
+description: >-
+  En esta sección encontrarás la explicación de términos utilizados en la
+  plataforma de gestión de la documentación de FUESMEN.
+---
 
-## :telephone\_receiver::ambulance: **0810-888-3226    ECCO**
+# Explicación de términos
 
+### A - B - C
 
+#### Acción correctiva
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+Acción o actividad necesaria para: a. Eliminar la causa de una no conformidad, y b. Evitar la ocurrencia o mitigar las consecuencias de eventos, previamente determinados, que afectan o puedan afectar a la seguridad.
 
-{% hint style="danger" %}
-### **AVISAR A RECEPCIÓN**&#x20;
+#### Auditoría
 
-Luego de llamar al servicio de emergencias, **dar aviso a la recepción de FUESMEN** (personal administrativo y/o de seguridad emplazado en el ingreso), a fin de que en cuanto llegue la ambulancia, pueda ser guiado directo al lugar requerido.\
-\
-Esto es necesario ya que habitualmente, por más precisión que se le informe a la telefonista, dicha información no llega al personal de la ambulancia.
-{% endhint %}
+Proceso sistemático, independiente y documentado para la obtención y la evaluación de evidencias de manera objetiva, con el fin de determinar el grado de cumplimiento de los requisitos.
 
-<details>
+#### Cadena de suministro
 
-<summary><mark style="color:orange;">Sedes con cobertura y más información:</mark></summary>
+Diseñadores, constructores, vendedores, fabricantes, empleadores, contratistas, subcontratistas, consignatarios y transportistas. La cadena de suministro puede incluir partes de la organización.
 
-**Sedes con cobertura**
+#### Calibración
 
-* Sede Mendoza (Garibaldi 405 y 393)
-* Garibaldi 374
-* COIR (Garibaldi 405 Patio Interno)
-* San Rafael
-* Maipú
+Conjunto de operaciones que establecen, en condiciones específicas, la relación entre los valores de magnitudes indicados por un instrumento de medida o sistema de medición, o los valores representados por una medida de material o un material de referencia, y los valores correspondientes obtenidos a partir de estándares de medición.
 
-Sedes en hospitales Italiano, Scaravelli, Universitario y El Carmen, atenderán las emergencias en esos establecimientos
+#### Competencia
 
-Más información en [PDF adjunto](https://2824384839-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDlIiILJdOG4ftAMU20kj%2Fuploads%2FTt1a0Q8SUgLm9qfnK5MV%2Farea%20protegida_2022_05_31_13_09_11_359.pdf?alt=media\&token=b3d3ebf0-e0c7-4542-ac6c-f09bb823bc34)
+Conjunto de conocimientos, habilidades, aptitudes y actitudes para desempeñarse en una actividad o proceso con el fin de lograr los resultados previstos.&#x20;
 
+#### Conocimiento
 
+Conocimientos técnicos especializados para entender los aspectos técnicos, humanos y organizativos propios de la instalación o la práctica con el fin de garantizar la seguridad
 
-<mark style="color:orange;">**Más información de ECCO Emergencias:**</mark>
+#### Corrección
 
-[https://www.ecco.com.ar/individuales/st/emergencias](https://www.ecco.com.ar/individuales/st/emergencias)
+Acción para eliminar una no conformidad detectada.
 
-</details>
+#### Cultura de seguridad
 
-## Ubicación de los DEA (Desfibrilador Externo Automático)
+Conjunto de características y actitudes de las organizaciones y las personas que asegura, como prioridad, que las cuestiones relativas a la seguridad reciben la atención que merecen por su importancia.
 
-### DEA 1: Garibaldi 405, al lado del reloj donde se marca el ingreso
+#### Cultura organizacional
 
-<figure><img src=".gitbook/assets/box-dea.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+Conjunto de normas, tradiciones, valores y actitudes que guían el comportamiento del personal y de las relaciones entre ellos.
 
-:red\_circle: Se ubica en planta baja, pasillo sur.
+### D - E - F
 
-> Recordar que este DEA, podrá ser manipulado por todo el personal
+#### Eficacia
 
+Grado en el que se realizan las actividades planificadas y se logran los resultados esperados.
 
+#### Enfoque graduado
 
-### DEA 2: Garibaldi 405, Segundo Subsuelo, Anestesia
+Proceso o método en el que el rigor de las acciones de control y las condiciones a ser aplicadas se corresponden con el nivel de riesgos asociados, esto es con la probabilidad de ocurrencia y las posibles consecuencias de la pérdida de control.
 
-:red\_circle: Se encuentra en las estanterías de la sala de anestesia
+#### Entidad Responsable
 
-> Recordar que este DEA, podrá ser manipulado por todo el personal
+Persona humana o jurídica a la que la Autoridad Regulatoria le ha otorgado una o varias licencias, registros o autorizaciones de práctica no rutinaria.
 
-##
+#### Evento
 
-## Ubicación de Carros de Paro CON Cardiodesfibrilador
+Suceso incidental (incluidos sucesos iniciadores, precursores de accidentes y cuasi accidentes), suceso accidental o acto malicioso. Gestión del conocimiento: enfoque integrado y sistemático encaminado a identificar, gestionar y compartir los conocimientos de una organización, y a posibilitar que grupos de personas mantengan y creen colectivamente conocimientos para facilitar la consecución de los objetivos de la organización.
 
-### Garibaldi 405, Primer Piso, Cámara Gamma
+### G - H - I
 
-:red\_circle:Sala de Ergometrías
+#### Indicador
 
-> Recordar que este equipamiento SOLO debe ser manipulado por personal médico calificado
+Dato o conjunto de datos para cuantificar objetivamente la evolución de un proceso o de una actividad.
 
-### Montecaseros 1020, Resonador COIR
+#### Información
 
-:red\_circle:Sala de Recuperación de Anestesia
+_Información como recurso:_ Conocimientos o datos vinculados a la ejecución de tareas, actualización de tecnologías, nuevas reglamentaciones, comunicación interna y externa, documentación, registros, eventos, informes, acceso a bibliografía, entre otros.
 
-> Recordar que este equipamiento SOLO debe ser manipulado por personal médico calificado
+### J - K - L
 
-### Garibaldi 393, Primer Piso, Gimnasio
+#### Liderazgo
 
-:red\_circle:Sala general del gimnasio, detrás del mueble de recepción
+Competencia para dirigir, influenciar y comprometer a personas y grupos de personas hacia el logro de objetivos.
 
-> Recordar que este equipamiento SOLO debe ser manipulado por personal médico calificado
+### M - N - Ñ - O
 
-### Sede Maipú
+#### Manual de gestión
 
-:red\_circle: Ubicación a confirmar
+Documento que establece requisitos para el sistema de gestión de una organización. No conformidad: no satisfacción de un requisito.
 
-##
+#### Mapa de procesos
 
-## Ubicación de Carro de Paro SIN Cardiodesfibrilador
+Diagrama que representa los procesos de una organización en forma interrelacionada.
 
-### Garibaldi 405, Planta Baja, Recepción - Información
+#### Matriz de riesgos
 
-:red\_circle:En el escritorio interno
+Es una herramienta de diagnóstico que permite identificar y priorizar los riesgos en un ámbito determinado
+
+#### Objetivo
+
+Resultado a lograr.
+
+#### Organización
+
+Persona o grupo de personas que tienen sus propias funciones con responsabilidades, autoridades y relaciones para lograr sus objetivos.
+
+### P - Q - R&#x20;
+
+#### Parte interesada
+
+Persona humana o jurídica que puede afectar, verse afectada o percibirse como afectada por una decisión o actividad.
+
+#### Política
+
+Orientaciones o directrices que rigen la actuación de una persona o entidad en un asunto o campo determinado.
+
+#### Política de seguridad
+
+Orientaciones y directrices, formalmente expresadas por la Entidad Responsable, que rigen la actuación de la organización en lo relativo a la seguridad.
+
+#### Práctica
+
+Toda tarea con fuente de radiación que produzca un incremento real o potencial de la exposición de las personas a la radiación ionizante, o de la cantidad de personas expuestas.
+
+#### Proceso
+
+Conjunto de actividades, mutuamente relacionadas, que utilizan las entradas para proporcionar un resultado previsto.&#x20;
+
+#### Procedimiento
+
+Secuencia de operaciones y actividades
+
+#### Punto de detención
+
+Etapa, en la secuencia de un proceso, más allá de la cual el elemento no puede ser procesado hasta ser liberado por la persona de la Entidad Responsable que solicita la detención.
+
+#### Punto de presencia
+
+Etapa, en la secuencia de un proceso, que debe ser notificada a la persona que realiza la inspección por parte de la Entidad Responsable, a fin de que pueda presenciar el desarrollo de las actividades involucradas. En el caso que dicha persona no pueda asistir, se puede avanzar hasta la próxima etapa.
+
+#### Requisito
+
+Característica exigible.
+
+### S - T - U
+
+#### Sistema de gestión
+
+Conjunto de elementos interrelacionados o interactuantes (sistema) destinado a establecer políticas y objetivos, y a posibilitar que se logren dichos objetivos de manera eficaz.
+
+#### Trazabilidad
+
+Capacidad para seguir la historia, la aplicación o la localización de un objeto, tal como producto, servicio, proceso, persona, organización, sistema o recurso.
+
+### V - W - X - Y - Z
+
+#### Validación
+
+Confirmación, mediante la provisión de evidencia objetiva, de que se han cumplido los requisitos para la utilización o aplicación específica prevista.
+
+#### Verificación
+
+Confirmación, mediante la provisión de evidencia objetiva, de que se han cumplido los requisitos especificados.
+
